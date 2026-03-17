@@ -118,7 +118,7 @@ body {
 }
 
 /* Pseudo-elements - Sale badge */
-/* .product-card::before {
+.product-card::before {
     content: "SALE";
     background-color: #e74c3c;
     color: #fff;
@@ -127,7 +127,7 @@ body {
     right: 0;
     padding: 5px 10px;
     border-radius: 0 0 0 5px;
-} */
+}
 .tag_home_link{
     display: flex;
     /* background-color: red; */
